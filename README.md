@@ -15,7 +15,7 @@ Clone the repo:
 
 bash
 Copy code
-git clone https://github.com/your-username/Weatherly.git
+git clone https://github.com/Rubyugo93/Weatherly.git
 Install dependencies:
 
 bash
