@@ -27,6 +27,7 @@ makefile
 Copy code
 REACT_APP_API_KEY=your-api-key
 Start the app:
+{APP SCREENSHOT: https://github.com/Rubyugo93/Weatherly/issues/1#issue-2715571917}
 
 bash
 Copy code
